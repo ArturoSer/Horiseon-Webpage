@@ -1,4 +1,4 @@
-# Project-02
+# Horiseon Marketing Webpage (Challenge 1)
 
 ## Description
 
